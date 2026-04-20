@@ -93,7 +93,7 @@ You do not need to install or maintain yt-dlp manually.
 Requires Go 1.21 or newer. Zero external Go dependencies.
 
 ```bash
-git clone https://github.com/krainium/Moviedl
+git clone https://github.com/Krainium/Moviedl.git
 cd moviedl
 go build -o moviedl Moviedl.go
 ```
