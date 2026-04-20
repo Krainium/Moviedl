@@ -1,4 +1,4 @@
-# moviedl
+# Moviedl - Global Movie Downloader
 
 ```
   +══════════════════════════════════════════════════════════+
